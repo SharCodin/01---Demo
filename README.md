@@ -29,3 +29,13 @@ If multiple people are working on the same projects or there are a lot of commit
 5. Navigate to Github and create a **pull request**
 6. Under the pull requests, people can continue to review, ask questions and work on the branch.
 7. Once completed, the branch and master can be merged.
+
+## Initializing a repository if not cloned.
+
+1. Create a folder to hold all the files. 
+2. **git init** *initialize the repository / directory*
+3. Commit the changes. 
+4. When pushing the changes to Github, an error message saying ***"fatal: The current branch master has no upstream branch."***
+5. Create an empty repository in Github.
+6. git push --set-upstream <Github_link>
+7. Commited changes are now live.
