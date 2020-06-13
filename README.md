@@ -38,4 +38,4 @@ If multiple people are working on the same projects or there are a lot of commit
 4. When pushing the changes to Github, an error message saying ***"fatal: The current branch master has no upstream branch."***
 5. Create an empty repository in Github.
 6. git push --set-upstream <Github_link>
-7. Commited changes are now live.
+7. Committed changes are now live.
